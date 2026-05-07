@@ -16,6 +16,3 @@ A clean, responsive web application that allows users to input their professiona
 
 ### How to Run Locally
 The live link for this project is available in the description.
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in any modern web browser.
-3. Fill out the form, upload an image, and click "Generate Card" (or press Enter).
